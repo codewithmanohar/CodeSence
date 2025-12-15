@@ -15,7 +15,7 @@ const Output = () => {
             <h1 className='py-2  border-b-1 '>🤖 Code Review</h1></span>
           <div className='px-10 py-5 h-[92%] overflow-auto snap-none scroll-m-'>
             {isLoadingReview ? (
-              <Loading />
+              <Loading /> 
              ) : (
               <Markdown
               rehypePlugins={[rehypeHighlight]}>

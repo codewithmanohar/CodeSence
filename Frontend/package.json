@@ -14,6 +14,7 @@
     "@tailwindcss/vite": "^4.0.6",
     "axios": "^1.7.9",
     "code-review": "file:..",
+    "dotenv": "^17.2.3",
     "prismjs": "^1.29.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
